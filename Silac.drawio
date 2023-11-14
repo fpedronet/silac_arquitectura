@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T22:53:44.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="U54mZBStirsv2-e4NMV5" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T22:58:42.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="CFrOk3vsgKP1eNPsS_oJ" version="22.1.1" type="github">
   <diagram name="Página-1" id="hsmb5aofqes9bnCXOndJ">
     <mxGraphModel dx="1762" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -243,7 +243,7 @@
         <mxCell id="s77s78iqiBPKpCQIxYdn-70" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#a01edc;shadow=0;glass=0;" vertex="1" parent="s77s78iqiBPKpCQIxYdn-69">
           <mxGeometry y="28.37" width="210" height="61.63" as="geometry" />
         </mxCell>
-        <mxCell id="s77s78iqiBPKpCQIxYdn-71" value="&lt;font size=&quot;1&quot; color=&quot;#7f2196&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Unidades Microservice&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="s77s78iqiBPKpCQIxYdn-69">
+        <mxCell id="s77s78iqiBPKpCQIxYdn-71" value="&lt;font size=&quot;1&quot; color=&quot;#7f2196&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Laboratory Microservice&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="s77s78iqiBPKpCQIxYdn-69">
           <mxGeometry width="210" height="37" as="geometry" />
         </mxCell>
         <mxCell id="s77s78iqiBPKpCQIxYdn-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9905c2;dashed=1;strokeWidth=1;" edge="1" parent="s77s78iqiBPKpCQIxYdn-69" source="s77s78iqiBPKpCQIxYdn-73" target="s77s78iqiBPKpCQIxYdn-76">
@@ -267,7 +267,7 @@
         <mxCell id="s77s78iqiBPKpCQIxYdn-78" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#a01edc;shadow=0;glass=0;" vertex="1" parent="s77s78iqiBPKpCQIxYdn-77">
           <mxGeometry y="28.37" width="210" height="61.63" as="geometry" />
         </mxCell>
-        <mxCell id="s77s78iqiBPKpCQIxYdn-79" value="&lt;font size=&quot;1&quot; color=&quot;#7f2196&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Pacientes Microservice&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="s77s78iqiBPKpCQIxYdn-77">
+        <mxCell id="s77s78iqiBPKpCQIxYdn-79" value="&lt;font size=&quot;1&quot; color=&quot;#7f2196&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Setting Microservice&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="s77s78iqiBPKpCQIxYdn-77">
           <mxGeometry width="210" height="37" as="geometry" />
         </mxCell>
         <mxCell id="s77s78iqiBPKpCQIxYdn-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9905c2;dashed=1;strokeWidth=1;" edge="1" parent="s77s78iqiBPKpCQIxYdn-77" source="s77s78iqiBPKpCQIxYdn-81" target="s77s78iqiBPKpCQIxYdn-84">
