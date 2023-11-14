@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T23:46:08.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yThyDe4r6gkjXd6mNk9R" version="22.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-14T23:47:47.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="KfSe5kwRrzA66TeMI-kK" version="22.1.1" type="github" pages="3">
   <diagram name="Arquitectura" id="hsmb5aofqes9bnCXOndJ">
     <mxGraphModel dx="1674" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5904,7 +5904,8 @@
             <mxPoint x="1760" y="137" as="sourcePoint" />
             <mxPoint x="1565" y="167" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1565" y="138" />
+              <mxPoint x="1670" y="138" />
+              <mxPoint x="1670" y="167" />
             </Array>
           </mxGeometry>
         </mxCell>
